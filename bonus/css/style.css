@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100vh;
+}
+
+#backgroundPattern{
+    background-color: rgb(63, 159, 255);
+    height:100%;
+    background-image: url(../../img/pattern.png);
+}
+
+#logo{
+    width: 15%;
+    margin: 50px 0px 0px 150px;
+}
+
+#whiteBoard{
+    background-color: white;
+    padding:10px 150px;
+}
+
+header p{
+    color: gray;
+    margin-bottom: 20px;
+}
+
+header a{
+    color:rgb(63, 159, 255);
+    text-decoration: none;
+}
+
+.images p{
+    font-size: small;
+}
+
+.lorem{
+    margin:20px 0px;
+}
+
+.lorem > span{
+    background-color: yellow;
+}
+
+ul{
+    margin-left:15px;
+}
+
+table{
+    margin-top: 25px;
+    width: 100%;
+    border-collapse: collapse;
+    text-indent: initial;
+}
+
+th{
+    background-color: rgb(63, 159, 255);
+    color:white;
+    text-align: left;
+}
+
+.firstCol, .secondCol{
+    width: 25%;
+}
+
+.bg-aqua{
+    background-color: rgb(124, 218, 255);
+}
+
+footer h3{
+    color: grey;
+}
+
+#graph{
+    background-image: url(../../img/graph.jpg);
+    margin-bottom: 20px;
+}
+
+#monitor{
+    background-image: url(../../img/monitor.jpg);
+}
+
+#graph, #monitor{
+    font-size: 26px;
+    font-weight: 500;
+    color:white;
+    padding: 15px;
+    background-size: cover;
+    height: 208px;
+    width: 312px;
+    margin-top: 20px;
+}
