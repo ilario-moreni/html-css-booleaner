@@ -38,3 +38,15 @@ header a{
 .images p{
     font-size: small;
 }
+
+.lorem{
+    margin:20px 0px;
+}
+
+.lorem > span{
+    background-color: yellow;
+}
+
+ul{
+    margin-left:15px;
+}
