@@ -19,3 +19,17 @@ body{
     width: 15%;
     margin: 50px 0px 0px 10px;
 }
+
+#whiteBoard{
+    background-color: white;
+    padding:10px;
+}
+
+header p{
+    color: gray;
+}
+
+header a{
+    color:rgb(63, 159, 255);
+    text-decoration: none;
+}
