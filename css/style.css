@@ -68,7 +68,30 @@ th{
     width: 25%;
 }
 
-
 .bg-aqua{
     background-color: rgb(124, 218, 255);
+}
+
+footer h3{
+    color: grey;
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+    margin-bottom: 20px;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph, #monitor{
+    font-size: 26px;
+    font-weight: 500;
+    color:white;
+    padding: 15px;
+    background-size: cover;
+    height: 208px;
+    width: 312px;
+    margin-top: 20px;
 }
