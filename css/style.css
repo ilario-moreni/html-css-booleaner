@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height: 100vh;
+}
+
+#backgroundPattern{
+    background-color: rgb(63, 159, 255);
+    height:100%;
+    background-image: url(../img/pattern.png);
+}
+
+#logo{
+    width: 15%;
+    margin: 50px 0px 0px 10px;
+}
