@@ -27,9 +27,14 @@ body{
 
 header p{
     color: gray;
+    margin-bottom: 20px;
 }
 
 header a{
     color:rgb(63, 159, 255);
     text-decoration: none;
+}
+
+.images p{
+    font-size: small;
 }
